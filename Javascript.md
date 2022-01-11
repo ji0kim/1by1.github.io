@@ -3,17 +3,11 @@
 ## Array.prototype.forEach()  
 The forEach() method executes a provided function once for each array element.
 
----
-
 ## Array.prototype.find()
 The find() method returns the value of the first element in the provided array that satisfies the provided testing function. If no values satisfy the testing function, undefined is returned.
 
----
-
 ## Array.prototype.filter()  
 The filter() method creates a new array with all elements that pass the test implemented by the provided function.
-
----
 
 ## Array.prototype.some()  
 The some() method tests whether at least one element in the array passes the test implemented by the provided function. 
