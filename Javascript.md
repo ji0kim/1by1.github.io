@@ -17,4 +17,4 @@ It doesn't modify the array.
 ## Array.prototype.includes()  
 The includes() method determines whether an array includes a certain value among its entries, returning **true or false** as appropriate.
 
-#### [.some() vs .includes()comparison] (https://hianna.tistory.com/403)
+ [.some() vs .includes()comparison](https://hianna.tistory.com/403)
