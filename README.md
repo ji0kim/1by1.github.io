@@ -1,2 +1,2 @@
-# TLI_1by1
+# TIL_1by1
 Accumulating small things newly learned.
